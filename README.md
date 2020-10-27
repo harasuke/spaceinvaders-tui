@@ -1,9 +1,8 @@
 # spaceinvaders-tui
-Space Invaders in TUI
+Space Invaders in TUI using [blessed.js](https://npmjs.com/package/blessed)
 
+## Installation
+`npm install`
 
-#Installation
-```npm install```
-
-#run
-npm start
+## Run
+`npm start`
